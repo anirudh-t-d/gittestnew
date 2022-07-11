@@ -1,0 +1,1 @@
+This is an exercise I am doing as part of the odin project. The goal is to make a repository and add files and update it.
